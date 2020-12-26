@@ -1,7 +1,9 @@
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
+        map m = new map();
 
-        System.out.println("Hello World!");
+        m.print();
     }
 }
